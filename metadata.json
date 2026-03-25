@@ -1,0 +1,5 @@
+{
+  "name": "Onyx Money",
+  "description": "Plateforme d'épargne solidaire et d'investissement à impact pour le financement des coopératives agricoles, de l'agro-industrie, et de l'énergie solaire en Afrique.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
