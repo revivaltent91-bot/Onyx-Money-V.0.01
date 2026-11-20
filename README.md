@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Onyx Money 🌱💰
 
-# Run and deploy your AI Studio app
+**Onyx Money** est une plateforme digitale dédiée au financement participatif, à l'investissement et à la promotion de projets agricoles.
 
-This contains everything you need to run your app locally.
+Elle a pour objectif de **connecter les porteurs de projets agrobusiness avec des investisseurs et des partenaires**, afin de soutenir le développement du secteur agricole.
 
-View your app in AI Studio: https://ai.studio/apps/5991a3e2-0dae-49df-8eb0-6fc26ce1da29
+## 🎯 Objectifs
 
+- Faciliter l'accès au financement pour les porteurs de projets agricoles
+- Offrir aux investisseurs des opportunités concrètes dans l'agrobusiness
+- Promouvoir et donner de la visibilité aux projets agricoles
+- Favoriser les partenariats pour accélérer le développement du secteur
+
+## 👥 Public cible
+
+- **Porteurs de projets** : agriculteurs, coopératives et entrepreneurs agrobusiness
+- **Investisseurs** : particuliers et institutions souhaitant financer des projets agricoles
+- **Partenaires** : acteurs de l'écosystème agricole souhaitant accompagner les projets
+
+## ✨ Fonctionnalités principales
+
+- Publication et présentation de projets agricoles
+- Campagnes de financement participatif
+- Investissement et suivi des projets financés
+- Mise en relation entre porteurs de projets, investisseurs et partenaires
 ## Run Locally
 
 **Prerequisites:**  Node.js
 
-
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
